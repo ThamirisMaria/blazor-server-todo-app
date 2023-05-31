@@ -13,43 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -994872706,
-        "Kind": "Components.Component",
-        "Name": "blazor_server_todo_app.Pages.Counter",
-        "AssemblyName": "blazor-server-todo-app",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazor_server_todo_app.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1927534604,
-        "Kind": "Components.Component",
-        "Name": "blazor_server_todo_app.Pages.Counter",
-        "AssemblyName": "blazor-server-todo-app",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor_server_todo_app.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazor_server_todo_app.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -1755848433,
         "Kind": "Components.Component",
         "Name": "blazor_server_todo_app.Pages.FetchData",
@@ -118,6 +81,80 @@
         "Metadata": {
           "Common.TypeName": "blazor_server_todo_app.Pages.Index",
           "Common.TypeNameIdentifier": "Index",
+          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1279202846,
+        "Kind": "Components.Component",
+        "Name": "blazor_server_todo_app.Pages.Todo",
+        "AssemblyName": "blazor-server-todo-app",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazor_server_todo_app.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1166668611,
+        "Kind": "Components.Component",
+        "Name": "blazor_server_todo_app.Pages.Todo",
+        "AssemblyName": "blazor-server-todo-app",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_server_todo_app.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazor_server_todo_app.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -994872706,
+        "Kind": "Components.Component",
+        "Name": "blazor_server_todo_app.Pages.Counter",
+        "AssemblyName": "blazor-server-todo-app",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazor_server_todo_app.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "blazor_server_todo_app.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1927534604,
+        "Kind": "Components.Component",
+        "Name": "blazor_server_todo_app.Pages.Counter",
+        "AssemblyName": "blazor-server-todo-app",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_server_todo_app.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazor_server_todo_app.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "blazor_server_todo_app.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -19027,6 +19064,11 @@
     {
       "FilePath": "d:\\Documentos\\Projetos C#\\blazor-server-todo-app\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Documentos\\Projetos C#\\blazor-server-todo-app\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
